@@ -1,9 +1,12 @@
 # Program FizzBuzz
-#  Loop through integers 0 to MAX_VALUE
-#  if the current val is divisible by FIZZ_DENOMINATOR then print "Fizz"
-#  elif current val is divisible by BUZZ_DENOMINATOR  then print "Buzz"
-# else print current val
-
+# Ask the op. for an integer
+#  Loop through integers 0 to that number
+#  if the current val is divisible by FIZZ_DENOMINATOR then print "Fizz" instead of the number
+#  if current val is divisible by BUZZ_DENOMINATOR  then print "Buzz"instead of the number
+#  if both, print FizzBuzz instead of the number
+# else print current value
+# There's a DEBUG setting
+#  Also: there's a default MAX_VALUE
 
 
 # Constants
